@@ -10,7 +10,7 @@
 	text-decoration-line:none;
 }
 #1{
-	background-color: rgb(204, 204, 204);
+	background-color: rgba(204, 204, 204,0);
 }
 .player_one,.player_two{
 	background-color: rgb(255, 255, 255); 
