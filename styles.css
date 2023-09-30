@@ -1,20 +1,26 @@
 /*  your css code here. If applicable */
-.center{
-	text-align:center;
+body {
+    background-color: rgb(204, 204, 204);
 }
-#list{
-	list-style:none;
-	font-family:Arial:
+
+.player_one,
+.player_two {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px auto;
+    max-width: 500px;
 }
-.a{
-	text-decoration-line:none;
-}
-#1{
-	background-color: rgba(204, 204, 204,0);
-}
-.player_one,.player_two{
-	background-color: rgb(255, 255, 255); 
-	padding:20px; 
+
+ul {
+    list-style-type: none;
+	border:1px solid black;
 	border-radius:10px;
+	padding:20px;
+	background-color:white
+}
+
+li {
+    margin: 5px 0;
 }
 
